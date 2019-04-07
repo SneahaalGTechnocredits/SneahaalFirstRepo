@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89745" started-at="2019-04-07T10:22:35Z" finished-at="2019-04-07T10:24:04Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="89745" started-at="2019-04-07T10:22:35Z" finished-at="2019-04-07T10:24:04Z">
+      <class name="com.DemoClassChrome">
+        <test-method status="PASS" signature="demoTestChrome(java.lang.String, java.lang.String)[pri:0, instance:com.DemoClassChrome@79b4d0f]" name="demoTestChrome" duration-ms="89469" started-at="2019-04-07T10:22:35Z" finished-at="2019-04-07T10:24:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTestChrome -->
+      </class> <!-- com.DemoClassChrome -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
